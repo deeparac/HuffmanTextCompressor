@@ -1,0 +1,49 @@
+start huffman dictionary builder.
+dict generated!
+the average code length is 4.653863!
+start encoding process.
+current encoding progress: 5%
+current encoding progress: 10%
+current encoding progress: 15%
+current encoding progress: 20%
+current encoding progress: 25%
+current encoding progress: 30%
+current encoding progress: 35%
+current encoding progress: 40%
+current encoding progress: 45%
+current encoding progress: 50%
+current encoding progress: 55%
+current encoding progress: 60%
+current encoding progress: 65%
+current encoding progress: 70%
+current encoding progress: 75%
+current encoding progress: 80%
+current encoding progress: 85%
+current encoding progress: 90%
+current encoding progress: 95%
+current encoding progress: 100%
+encoding part done!
+binary string converted.
+decoding progress working on...
+current decoding progress: 5%
+current decoding progress: 10%
+current decoding progress: 15%
+current decoding progress: 20%
+current decoding progress: 25%
+current decoding progress: 30%
+current decoding progress: 35%
+current decoding progress: 40%
+current decoding progress: 45%
+current decoding progress: 50%
+current decoding progress: 55%
+current decoding progress: 60%
+current decoding progress: 65%
+current decoding progress: 70%
+current decoding progress: 75%
+current decoding progress: 80%
+current decoding progress: 85%
+current decoding progress: 90%
+current decoding progress: 95%
+current decoding progress: 100%
+everything done well so far, check recon.txt out now!
+the total running time is 25.351453
